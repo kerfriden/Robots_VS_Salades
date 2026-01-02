@@ -71,7 +71,7 @@ Chaque carte possède **deux faces** :
 ## MISE EN PLACE
 
 <a href="./mise_en_place.pdf">
-  <img src="files/mise_en_place.png" width="800">
+  <img src="files/mise_en_place.png" width="700">
 </a>
 
 ### 1) Préparer le deck Salades
