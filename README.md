@@ -45,7 +45,7 @@ La partie est immédiatement perdue si :
 - 10 cartes Tier III  
 
 Toutes les cartes Salade commencent **face non découpée visible**.  
-Chaque carte indique uniquement ses **points de vie (PV)**.
+Chaque carte indique uniquement sa **résistance**.
 
 <p align="center">
 <a href="./files/carte_description.png">
@@ -210,7 +210,7 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 
 ### 🔪 Couteau
 - Attaque une salade **adjacente** au robot.
-- Si attaque ≥ PV → la salade est **découpée**.
+- Si attaque ≥ résistance → la salade est **découpée**.
 
 **Coopération**  
 Si l’autre robot est aussi adjacent à cette salade, l'attaque bénéficie d'un bonus de +1 pour cette action. **Bien coordonner les deux robots est fondamental** pour remporter la victoire, car les salades sont souvent trop résistantes par rapport au niveau des outils de découpe fournis par le jeu.
@@ -225,7 +225,7 @@ Si l’autre robot est aussi adjacent à cette salade, l'attaque bénéficie d'u
 
 ### 💣 Boule de Check
 - Permet de tenter de découper jusqu’à **3 salades** : la salade immédiatement adjacente en robot actif et les deux salades adjacentes à cette-dernière.
-- Chaque salade est découpée  si **PV ≤ force** de la Boule de Check.
+- Chaque salade est découpée  si **résistance ≤ force** de la Boule de Check.
 
 ---
 
@@ -369,7 +369,7 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 Cette variante est indépendante des niveaux de difficulté.
 
 - Ajoutez une carte **Salade Pousse-Tapis** dans le **Tier I** des Salades  
-  *(retirez une salade normale de PV = 1 du Tier I)*.
+  *(retirez une salade normale de réistance = 1 du Tier I)*.
 - Une autre Salade Pousse-Tapis est déjà présente dans le **Tier II**.
 
 Résultat : il y aura **deux accélérations** dans la partie.
