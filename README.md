@@ -1,4 +1,4 @@
-# 🤖🥗 Robots contre Salades  
+# 🤖🥗 ROBOTS CONTRE SALADES  
 Jeu coopératif – 2 joueurs – 6 ans et +
 
 Autheurs : Tilo Kerfriden Claus et Pierre Kerfriden
@@ -7,7 +7,7 @@ Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
 ---
 
-## LA CHAÎNE DE PRODUCTION
+## LA RÉVOLTES DES SALADES
 
 Bienvenue dans l’usine **GreenBot Industries** 🏭🥗.
 
