@@ -1,5 +1,5 @@
 # 🤖🥗 ROBOTS CONTRE SALADES  
-**Jeu de cartes imprimables et coopératif pour 2 joueurs de 6 ans et +**
+**Jeu de cartes coopératif imprimable pour 2 joueurs de 6 ans et +**
 
 - Auteurs : Tilo Kerfriden Claus et Pierre Kerfriden
 - Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
@@ -14,13 +14,20 @@
 
 ## LA RÉVOLTES DES SALADES
 
-Bienvenue dans l’usine **GreenBot Industries** 🏭🥗.
+Bienvenue dans l’usine GreenBot Industries, leader mondial de la salade composée automatisée 🏭🥗.
 
-Depuis peu, les salades **s’arment** et **résistent à la découpe**.  
-Certaines tentent même d’**accélérer les tapis roulants** pour **sortir de l’usine sans être découpées**.
+Chaque jour, des milliers de salades fraîches arrivent sur une chaîne de production ultramoderne : lavage, découpe, assemblage… tout est réglé comme une horloge.
 
-Vous incarnez deux robots de découpe.  
-Votre mission : **empêcher les salades de sortir du tapis roulant sans être découpées**.
+Tout… jusqu’à aujourd’hui.
+
+Depuis peu, les salades s’arment, résistent à la découpe, et certaines tentent même d’accélérer la chaîne de production pour atteindre la sortie sans être découpées.
+
+À leur tête :
+👑 le Roi des Salades, instigateur de la rébellion verte.
+
+Vous incarnez deux robots de découpe envoyés en urgence pour reprendre le contrôle de la production.
+
+Votre mission : coopérer, améliorer vos équipements grâce aux mises à niveau que vous revevrez lors de vos exploits, et empêcher les salades rebelles de mettre le chaos dans le système de production.
 
 ---
 
@@ -74,7 +81,7 @@ Chaque carte possède **deux faces** :
 
 ### Autres éléments
 
-- 2 pions **Robot** (non fournis, prendre des lbriques LEGO par exemple)
+- 2 pions **Robot** (non fournis, prendre des briques LEGO par exemple)
 - 1 deck personnel de départ de **8 cartes** pour chacun des deux joueurs
 
 ---
