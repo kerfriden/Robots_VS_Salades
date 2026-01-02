@@ -331,6 +331,9 @@ Les niveaux modifient principalement la composition du deck Équipement
 ### Niveau avancé – Disque dur
 Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 
+### Règles spécifiques: 
+- Niveau Facile : le roi des salades ne provoque pas la défaite immédiate
+- Niveaux Facile et Normal : les salades à pattes sont des salades normales
 
 ---
 
