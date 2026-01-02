@@ -48,6 +48,12 @@ La partie est immédiatement perdue si :
 Toutes les cartes Salade commencent **face non découpée visible**.  
 Chaque carte indique uniquement ses **points de vie (PV)**.
 
+<p align="center">
+<a href="./files/carte_description.png">
+  <img src="files/carte_description.png" width="700">
+</a>
+</p>
+
 ---
 
 ### ⚙️ Cartes Équipement (30)
