@@ -345,7 +345,7 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 
 ## LISTE DES CARTES SALADES
 
-<a href="./files/liste_saldes.png">
+<a href="./files/liste_salades.png">
   <img src="files/liste_saldes.png" width="700">
 </a>
 
