@@ -63,7 +63,7 @@ Chaque carte possède **deux faces** :
 
 ### Autres éléments
 
-- 2 pions **Robot**
+- 2 pions **Robot** (non fournis, prendre des lbriques LEGO par exemple)
 - 1 deck personnel de départ de **8 cartes** pour chacun des deux joueurs
 
 ---
