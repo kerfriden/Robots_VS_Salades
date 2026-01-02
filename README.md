@@ -325,27 +325,14 @@ sans qu’aucune condition de défaite ne se soit produite.
 
 ## NIVEAUX DE DIFFICULTÉ
 
-Les niveaux modifient principalement la composition du deck Équipement  
-(et quelques règles mineures, selon le tableau fourni).
+Les niveaux modifient principalement la composition du deck Équipement, et quelques règles mineures.
 
-### Niveau avancé – Disque dur
+### Règles spécifique au niveau facile
+- le roi des salades ne provoque pas la défaite immédiate
+- les salades à pattes sont des salades standards
+
+### Niveau avancé – introduction du disque dur
 Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
-
-### Règles spécifiques: 
-- Niveau Facile : le roi des salades ne provoque pas la défaite immédiate
-- Niveaux Facile et Normal : les salades à pattes sont des salades normales
-
----
-
-## VARIANTE – DOUBLE ACCÉLÉRATION
-
-Cette variante est indépendante des niveaux de difficulté.
-
-- Ajoutez une carte **Salade Pousse-Tapis** dans le **Tier I** des Salades  
-  *(retirez une salade normale de PV = 1 du Tier I)*.
-- Une autre Salade Pousse-Tapis est déjà présente dans le **Tier II**.
-
-Résultat : il y aura **deux accélérations** dans la partie.
 
 ---
 
@@ -364,3 +351,15 @@ Résultat : il y aura **deux accélérations** dans la partie.
   <img src="files/liste_equipement.png" width="700">
 </a>
 </p>
+
+---
+
+## VARIANTE – DOUBLE ACCÉLÉRATION
+
+Cette variante est indépendante des niveaux de difficulté.
+
+- Ajoutez une carte **Salade Pousse-Tapis** dans le **Tier I** des Salades  
+  *(retirez une salade normale de PV = 1 du Tier I)*.
+- Une autre Salade Pousse-Tapis est déjà présente dans le **Tier II**.
+
+Résultat : il y aura **deux accélérations** dans la partie.
