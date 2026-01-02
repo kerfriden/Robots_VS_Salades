@@ -11,10 +11,10 @@
 Bienvenue dans l’usine **GreenBot Industries** 🏭🥗.
 
 Depuis peu, les salades **s’arment** et **résistent à la découpe**.  
-Certaines tentent même d’**accélérer le tapis** pour **sortir de l’usine sans être découpées**.
+Certaines tentent même d’**accélérer les tapis roulants** pour **sortir de l’usine sans être découpées**.
 
 Vous incarnez deux robots de découpe.  
-Votre mission : **empêcher les salades de sortir du tapis sans être découpées**.
+Votre mission : **empêcher les salades de sortir du tapis roulant sans être découpées**.
 
 ---
 
@@ -22,7 +22,7 @@ Votre mission : **empêcher les salades de sortir du tapis sans être découpée
 
 Les joueurs gagnent la partie lorsque :
 
-> **toutes les cartes Salade ont atteint la sortie du tapis de découpe (7ᵉ emplacement)**,  
+> **toutes les cartes Salade ont atteint la sortie du tapis roulant de découpe (7ᵉ emplacement)**,  
 > **sans qu’aucune condition de défaite ne se soit produite**.
 
 ---
@@ -155,13 +155,13 @@ La **sortie du tapis de découpe** correspond au **7ᵉ emplacement** :
 Chaque joueur :
 
 1. Prend son deck de départ de 8 cartes :
-   - 4 🔪 Couteaux (valeure 1)
-   - 4 🛼 Rollers (déplacement 1)
+   - 4 🔪 Couteaux de cuisine basiques de valeur 1
+   - 4 🛼 Rollers basiques permettant un déplacement de 1 emplacement le long du tapis
 2. Mélange son deck.
-3. Place son robot **adjacent à une salade visible** sur le tapis.
+3. Place son robot **adjacent à une salade visible** sur le tapis de découpe.
 
 Le deck Salade fait partie du tapis : un robot peut s’y placer adjacent.  
-En revanche, il ne pourra jamais être adjacent à l’emplacement matérialisant la **sortie de tapis**. Il ne pourra pas non plus être adjacent à un emplacement non matérialisé (l'ensemble des 6 emplacements du tapis de découpe n'est pas matérialisé en début de partie).
+En revanche, il ne pourra jamais être adjacent à l’emplacement matérialisant la **sortie du tapis** de découpe. Il ne pourra pas non plus être adjacent à un emplacement non matérialisé (l'ensemble des 6 emplacements du tapis n'est pas matérialisé en début de partie).
 
 ---
 
@@ -210,7 +210,7 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 
 ### 🔪 Couteau
 - Tente de découper une salade **adjacente** au robot.
-- Si valeure du couteau ≥ résistance de la salde → la salade est **découpée**.
+- Si **valeur du couteau ≥ résistance de la salade** → la salade est **découpée** avec succés.
 
 **Coopération**  
 Si l’autre robot est aussi adjacent à cette salade, l'opération de découpe bénéficie d'un bonus de +1 pour cette action. **Bien coordonner les deux robots est fondamental** pour remporter la victoire, car les salades sont souvent trop résistantes par rapport au niveau des outils de découpe fournis par le jeu.
