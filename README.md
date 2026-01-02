@@ -346,7 +346,7 @@ Résultat : il y aura **deux accélérations** dans la partie.
 
 ---
 
-## LISTE DES CARTES SALADES
+## LISTE DES CARTES SALADE
 
 <p align="center">
 <a href="./files/liste_salades.png">
