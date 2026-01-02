@@ -1,7 +1,7 @@
 # 🤖🥗 ROBOTS CONTRE SALADES  
-Jeu coopératif – 2 joueurs – 6 ans et +
+Jeu de carte coopératif de type "deck-building" pour 2 joueurs de 6 ans et +
 
-Autheurs : Tilo Kerfriden Claus et Pierre Kerfriden
+Auteurs : Tilo Kerfriden Claus et Pierre Kerfriden
 
 Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
