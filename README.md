@@ -3,6 +3,12 @@ Jeu coopératif – 2 joueurs – 6 ans et +
 
 ---
 
+Par Tilo Kerfriden Claus et Pierre Kerfriden
+
+Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
+
+---
+
 ## LA CHAÎNE DE PRODUCTION
 
 Bienvenue dans l’usine **GreenBot Industries** 🏭🥗.
