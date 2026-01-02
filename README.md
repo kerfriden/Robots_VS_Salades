@@ -68,6 +68,19 @@ Chaque carte possède **deux faces** :
 
 ---
 
+## IMPRESSION DES CARTES
+
+Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles en cliquant sur l'image ci-dessous.
+<p align="center">
+<a href="./cartes_a_imprimer.pdf">
+  <img src="files/snipet_cartes_à_imprimer.png" width="400">
+</a>
+</p>
+
+Il est possible de les imprimer en recto-verso, mais les cartes ainsi obtenues sont difficiles à manipuler car trop fines. 
+
+---
+
 ## MISE EN PLACE
 
 <p align="center">
@@ -354,18 +367,6 @@ Cette variante est indépendante des niveaux de difficulté.
 
 Résultat : il y aura **deux accélérations** dans la partie.
 
----
-
-## IMPRESSION DES CARTES
-
-Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles en cliquant sur l'image ci-dessous.
-<p align="center">
-<a href="./cartes_a_imprimer.pdf">
-  <img src="files/snipet_cartes_à_imprimer.png" width="400">
-</a>
-</p>
-
-Il est possible de les imprimer en recto-verso, mais les cartes ainsi obtenues sont difficiles à manipuler car trop fines. 
 
 Nous recommendons d'imprimer en recto, et de coller chaque paire de feuille imprimer de part et d'autre d'une feuille blanche plus rigide, avant de procéder au découpage de cet assemblae de trois feuilles. 
 
