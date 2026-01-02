@@ -360,7 +360,7 @@ Résultat : il y aura **deux accélérations** dans la partie.
 
 Les cartes sont disponibles ici
 <p align="center">
-<a href="./files/cartes_à_imprimer.pdf">
+<a href="./cartes_à_imprimer.pdf">
   <img src="files/snipet_cartes_à_imprimer.png" width="700">
 </a>
 </p>
