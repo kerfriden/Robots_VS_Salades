@@ -7,6 +7,8 @@ Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
 ---
 
+[![PDF Preview](files/mise_en_place.png)](mise_en_place.pdf)
+
 ## LA CHAÎNE DE PRODUCTION
 
 Bienvenue dans l’usine **GreenBot Industries** 🏭🥗.
