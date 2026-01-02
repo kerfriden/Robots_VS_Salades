@@ -1,9 +1,7 @@
 # 🤖🥗 Robots contre Salades  
 Jeu coopératif – 2 joueurs – 6 ans et +
 
----
-
-Par Tilo Kerfriden Claus et Pierre Kerfriden
+Autheurs : Tilo Kerfriden Claus et Pierre Kerfriden
 
 Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
