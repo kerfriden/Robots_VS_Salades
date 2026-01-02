@@ -1,5 +1,5 @@
 # 🤖🥗 ROBOTS CONTRE SALADES  
-Jeu de cartes imprimables coopératif de type "deck-building" pour 2 joueurs de 6 ans et +
+**Jeu de cartes imprimables coopératif de type "deck-building" pour 2 joueurs de 6 ans et +**
 
 Auteurs : Tilo Kerfriden Claus et Pierre Kerfriden
 
