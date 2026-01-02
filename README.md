@@ -70,9 +70,11 @@ Chaque carte possède **deux faces** :
 
 ## MISE EN PLACE
 
+<p align="center">
 <a href="./files/mise_en_place.pdf">
   <img src="files/mise_en_place.png" width="700">
 </a>
+</p>
 
 ### 1) Préparer le deck Salades
 
@@ -353,6 +355,8 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 
 ## LISTE DES CARTES EQUIPEMENT
 
+<p align="center">
 <a href="./files/liste_equipement.png">
   <img src="files/liste_equipement.png" width="700">
 </a>
+</p>
