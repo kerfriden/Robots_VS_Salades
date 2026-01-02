@@ -50,7 +50,7 @@ Chaque carte indique uniquement ses **points de vie (PV)**.
 
 <p align="center">
 <a href="./files/carte_description.png">
-  <img src="files/carte_description.png" width="700">
+  <img src="files/carte_description.png" width=600">
 </a>
 </p>
 
@@ -91,7 +91,7 @@ Il est possible de les imprimer en recto-verso, mais les cartes ainsi obtenues s
 
 <p align="center">
 <a href="./files/mise_en_place.pdf">
-  <img src="files/mise_en_place.png" width="700">
+  <img src="files/mise_en_place.png" width="800">
 </a>
 </p>
 
