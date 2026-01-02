@@ -23,7 +23,7 @@ Votre mission : **empêcher les salades de sortir du tapis sans être découpée
 
 Les joueurs gagnent la partie lorsque :
 
-> **toutes les cartes Salade ont atteint la sortie de tapis (7ᵉ emplacement)**,  
+> **toutes les cartes Salade ont atteint la sortie du tapis de découpe (7ᵉ emplacement)**,  
 > **sans qu’aucune condition de défaite ne se soit produite**.
 
 ---
