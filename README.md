@@ -83,7 +83,7 @@ Chaque carte possède **deux faces** :
    - **Tier III** en bas
    - **Tier II** au milieu
    - **Tier I** au-dessus
-3. Placez le deck **face non découpée visible**.
+3. Placez le deck **face salade non découpée visible**.
 
 👉 Le dessus du deck correspond au **premier emplacement du tapis**.
 
@@ -96,7 +96,6 @@ Le tapis est matérialisé par le **déroulement des cartes Salade**.
 1. Prenez la carte du dessus du deck Salade et placez-la à côté du deck.  
 2. Décalez cette carte d’un emplacement.
 3. Prenez une nouvelle carte du dessus du deck Salade et placez-la dans l’emplacement libéré.
-4. Répétez cette opération une seconde fois.
 
 👉 À l’issue de cette mise en place :
 - **3 cartes Salade** sont visibles sur le tapis,
@@ -110,9 +109,9 @@ Le tapis est matérialisé par le **déroulement des cartes Salade**.
 - Entre le deck Salade et la sortie de tapis, il y a **exactement 5 emplacements**.
 - Avec les deux extrémités, cela fait **7 emplacements** au total.
 
-La **sortie de tapis** correspond au **7ᵉ emplacement** :
+La **sortie du tapis de découpe** correspond au **7ᵉ emplacement** :
 - elle n’est pas matérialisée au début de la partie,
-- lorsqu’elle apparaît, toutes les salades qui y arrivent sont **empilées** (découpées ou non),
+- toutes les salades qui y arrivent sont **empilées** (découpées ou non),
 - les robots ne peuvent plus **interagir** avec ces salades.
 
 ---
@@ -126,7 +125,7 @@ La **sortie de tapis** correspond au **7ᵉ emplacement** :
    - **Tier I** au-dessus
 3. Placez le deck Équipement **face cachée**.
 
-👉 L’emplacement exact est montré sur la **photo de mise en place**.  
+👉 L’emplacement suggéré est montré sur le **schéma de mise en place**.  
 👉 Aucune carte Équipement n’est visible au début de la partie.
 
 ---
@@ -139,11 +138,10 @@ Chaque joueur :
    - 4 🔪 Couteaux (attaque 1)
    - 4 🛼 Rollers (déplacement 1)
 2. Mélange son deck.
-3. **Ne pioche aucune carte** à la mise en place.
-4. Place son robot **adjacent à une salade visible** sur le tapis.
+3. Place son robot **adjacent à une salade visible** sur le tapis.
 
 Le deck Salade fait partie du tapis : un robot peut s’y placer adjacent.  
-En revanche, il ne pourra jamais être adjacent à l’emplacement matérialisant la **sortie de tapis**.
+En revanche, il ne pourra jamais être adjacent à l’emplacement matérialisant la **sortie de tapis**. Il ne pourra pas non plus être adjacent à un emplacement non matérialisé (l'ensemble des 6 emplacements du tapis de découpe n'est pas matérialisé en début de partie).
 
 ---
 
@@ -155,19 +153,19 @@ Chaque tour se déroule dans l’ordre suivant.
 
 ### 1️⃣ Phase Salades – Avancée du tapis
 
-> Cette phase n’est pas effectuée lors du premier tour.
+> Cette phase n’est pas effectuée lors du premier tour (elle fait partie de la mise en place du jeu).
 
 À partir du deuxième tour :
 
 - Révélez **2 cartes Salade** depuis le deck.
 - Chaque nouvelle carte pousse les autres d’un emplacement vers la sortie de tapis.
-- Si une salade atteint le **7ᵉ emplacement**, elle est empilée à la sortie de tapis.
+- Si une salade atteint le **7ᵉ emplacement**, elle est empilée à l'emplacement de sortie de tapis.
 
 #### Salade *Pousse-Tapis*
 Lorsqu’une salade *Pousse-Tapis* apparaît :
 
 - le nombre de cartes révélées à chaque phase Salades augmente de **+1** (ex : 2 → 3),
-- l’effet est **permanent**.
+- l’effet est **permanent** et correspond à une accélération du jeu.
 
 ---
 
@@ -175,15 +173,9 @@ Lorsqu’une salade *Pousse-Tapis* apparaît :
 
 Les joueurs choisissent librement qui est le joueur actif.
 
-Au début de son tour, le joueur actif :
-- pioche jusqu’à avoir **3 cartes en main**.
+Au début de son tour, le joueur actif pioche jusqu’à avoir **3 cartes en main**.
 
-Si son deck est vide :
-- il mélange **sa défausse**,
-- puis pioche le nombre de cartes manquantes.
-
-S’il n’y a plus assez de cartes :
-- il pioche autant que possible.
+Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cartes manquantes. S’il n’y a plus assez de cartes, il pioche autant que possible.
 
 ---
 
@@ -201,22 +193,19 @@ S’il n’y a plus assez de cartes :
 - Si attaque ≥ PV → la salade est **découpée**.
 
 **Coopération**  
-Si l’autre robot est aussi adjacent à cette salade :
-- +1 attaque pour cette action.
+Si l’autre robot est aussi adjacent à cette salade, l'attaque bénéficie d'un bonus de +1 pour cette action. **Bien coordonner les deux robots est fondamental** pour remporter la victoire, car les salades sont souvent trop résistantes par rapport au niveau des outils de découpe fournis par le jeu.
 
 ---
 
 ### 🛼 Rollers
 - Déplace le robot du nombre d’emplacements indiqué.
-- Le robot ne peut pas se déplacer vers un emplacement **pas encore matérialisé**  
-  (par exemple au début de la partie si le tapis est encore court).
+- Le robot ne peut pas se déplacer vers un emplacement qui n'est **pas encore matérialisé** (par exemple au début de la partie quand le tapis fait moins de 6 emplacement de long).
 
 ---
 
 ### 💣 Boule de Check
-- Permet de tenter de découper jusqu’à **3 salades adjacentes au robot actif**.
-- Chaque salade est découpée uniquement si :
-  - **PV ≤ force** de la Boule de Check.
+- Permet de tenter de découper jusqu’à **3 salades** : la salade immédiatement adjacente en robot actif et les deux salades adjacentes à cette-dernière.
+- Chaque salade est découpée  si **PV ≤ force** de la Boule de Check.
 
 ---
 
