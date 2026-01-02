@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="files/tiny_url.png">
-  <img src="files/tiny_url.png" width="350">
+  <img src="files/tiny_url.png" width="100">
 </a>
 </p>
 
