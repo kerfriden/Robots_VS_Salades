@@ -212,7 +212,7 @@ Si l’autre robot est aussi adjacent à cette salade, l'attaque bénéficie d'u
 ### 🧹 Tapis de Check
 - Fait reculer toutes les salades **non découpées** au plus près du deck Salade,
 - en conservant leur ordre,
-- et en faisant passer les salades **découpées devant**.
+- et en faisant passer les salades découpées et les emplacements vides (créés par une attaque de Super Lapin) devant, c'est-à-dire vers la sortie du tapis.
 
 ---
 
@@ -229,6 +229,7 @@ La carte CPU utilisée reste dans la **zone de jeu** pendant cet effet.
 
 ### 🐰 Super Lapin
 - Mange n’importe quelle salade sur le tapis.
+- La salade visée ne doit pas forcément être adjacente au robot actif
 - La salade est retirée du jeu.
 - L’emplacement devient vide, matérialisé par une **carte blanche**.
 - Aucun équipement n’est gagné.
@@ -242,11 +243,10 @@ Lorsqu’une salade est découpée (couteau ou Boule de Check) :
 1. Révélez la carte du dessus du deck Équipement.
 2. Ajoutez-la au stock d’équipements visibles.
 
-- Stock limité à **3 cartes**.
-- Si une 4ᵉ carte arrive : retirez la plus ancienne du jeu.
+Le Stock limité à **3 cartes** : si une 4ᵉ carte équipement arrive dans le stock, il faut retirer la plus ancienne du jeu.
 
 ### Cas particuliers
-- Lapin : aucun équipement.
+- Super Lapin : ne donne droit à aucun équipement.
 - Roi des Salades : lorsqu’il est découpé, ajoutez immédiatement un **Rollers de 7 lieues** au stock, sans piocher.
 
 ---
@@ -257,10 +257,10 @@ Lorsqu’une salade est découpée (couteau ou Boule de Check) :
 
 1. Retirer du jeu **une carte non jouée** de sa main.
 2. Prendre **une carte du stock d’équipements visibles**.
-3. Cette carte est considérée comme **jouée sans effet** (elle ira dans sa défausse).
+3. Cette carte est considérée comme **jouée sans effet** (elle ira dans sa défausse à la fin de son tour).
 4. Elle sera utilisable **la prochaine fois** qu’elle sera piochée depuis le deck.
 
-Cette action peut être répétée autant que souhaité.
+Cette action peut être répétée autant de fois que souhaité.
 
 👉 Le deck personnel contient toujours **8 cartes**.
 
@@ -283,8 +283,8 @@ Cette action peut être répétée autant que souhaité.
 - Voir règle dans la Phase Salades (augmentation permanente de la vitesse).
 
 ### 🦵 Salade à pattes
-- Se rue devant la salade non découpée la plus proche de la sortie de tapis,
-- en poussant vers l’avant les salades découpées.
+- Se rue devant la salade non découpée la plus proche de la sortie du tapis de découpe,
+- en poussant vers l’avant les salades découpées situées entre la salade non découpée la plus proche de la sortie de tapis et l'emplacement de sortie de tapis.
 
 ---
 
