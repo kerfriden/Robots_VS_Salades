@@ -58,7 +58,7 @@ La partie est immédiatement perdue si :
 - 10 cartes Tier III  
 
 Toutes les cartes Salade commencent **face non découpée visible**.  
-Chaque carte indique uniquement sa **résistance**.
+Chaque carte indique la **résistance** de la salade en haut à droite, ainsi que le tier auquel elle appartient en bas à droite.
 
 <p align="center">
 <a href="./files/carte_description.png">
@@ -73,16 +73,15 @@ Chaque carte indique uniquement sa **résistance**.
 Chaque carte possède **deux faces** :
 - une **face cachée**,
 - une **face équipement** indiquant :
-  - le **tier**,
-  - le **type d’équipement**,
-  - une **valeur numérique** *(optionnelle — certaines cartes, comme le Lapin, n’en ont pas)*.
+  - le **tier** auquel elle appartient,
+  - une **valeur numérique** *(optionnelle — certaines cartes, comme le Super Lapin, n’en ont pas)*.
 
 ---
 
 ### Autres éléments
 
-- 2 pions **Robot** (non fournis, prendre des briques LEGO par exemple)
-- 1 deck personnel de départ de **8 cartes** pour chacun des deux joueurs
+- 1 deck personnel de départ de **8 cartes**
+- 2 pions **Robot** (non fournis, prendre des briques LEGO par exemple) pour chacun des deux joueurs
 
 ---
 
