@@ -8,7 +8,7 @@ Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 ---
 
 <a href="./mise_en_place.pdf">
-  <img src="files/mise_en_place.png" width="300">
+  <img src="files/mise_en_place.png" width="600">
 </a>
 
 ## LA CHAÎNE DE PRODUCTION
