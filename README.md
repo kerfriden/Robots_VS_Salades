@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="files/tiny_url.png">
-  <img src="files/tiny_url.png" width="100">
+  <img src="files/tiny_url.png" width="150">
 </a>
 </p>
 
