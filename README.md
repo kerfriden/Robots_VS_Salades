@@ -68,7 +68,7 @@ Chaque carte possède **deux faces** :
 
 ---
 
-## IMPRESSION DES CARTES
+### IMPRESSION DES CARTES
 
 Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles en cliquant sur l'image ci-dessous.
 <p align="center">
