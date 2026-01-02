@@ -155,7 +155,7 @@ La **sortie du tapis de découpe** correspond au **7ᵉ emplacement** :
 Chaque joueur :
 
 1. Prend son deck de départ de 8 cartes :
-   - 4 🔪 Couteaux (attaque 1)
+   - 4 🔪 Couteaux (valeure 1)
    - 4 🛼 Rollers (déplacement 1)
 2. Mélange son deck.
 3. Place son robot **adjacent à une salade visible** sur le tapis.
@@ -209,11 +209,11 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 ## CARTES ÉQUIPEMENT – EFFETS
 
 ### 🔪 Couteau
-- Attaque une salade **adjacente** au robot.
-- Si attaque ≥ résistance → la salade est **découpée**.
+- Tente de découper une salade **adjacente** au robot.
+- Si valeure du couteau ≥ résistance de la salde → la salade est **découpée**.
 
 **Coopération**  
-Si l’autre robot est aussi adjacent à cette salade, l'attaque bénéficie d'un bonus de +1 pour cette action. **Bien coordonner les deux robots est fondamental** pour remporter la victoire, car les salades sont souvent trop résistantes par rapport au niveau des outils de découpe fournis par le jeu.
+Si l’autre robot est aussi adjacent à cette salade, l'opération de découpe bénéficie d'un bonus de +1 pour cette action. **Bien coordonner les deux robots est fondamental** pour remporter la victoire, car les salades sont souvent trop résistantes par rapport au niveau des outils de découpe fournis par le jeu.
 
 ---
 
@@ -225,14 +225,14 @@ Si l’autre robot est aussi adjacent à cette salade, l'attaque bénéficie d'u
 
 ### 💣 Boule de Check
 - Permet de tenter de découper jusqu’à **3 salades** : la salade immédiatement adjacente en robot actif et les deux salades adjacentes à cette-dernière.
-- Chaque salade est découpée  si **résistance ≤ force** de la Boule de Check.
+- Chaque salade est découpée  si **résistance ≤ valeure** de la Boule de Check.
 
 ---
 
 ### 🧹 Tapis de Check
 - Fait reculer toutes les salades **non découpées** au plus près du deck Salade,
 - en conservant leur ordre,
-- et en faisant passer les salades découpées et les emplacements vides (créés par une attaque de Super Lapin) devant, c'est-à-dire vers la sortie du tapis.
+- et en faisant passer les salades découpées et les emplacements vides (créés lorsqu'un Super Lapin mange une salade) devant, c'est-à-dire vers la sortie du tapis.
 
 ---
 
