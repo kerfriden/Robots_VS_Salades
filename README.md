@@ -82,7 +82,9 @@ Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles en c
 </a>
 </p>
 
-Il est possible de les imprimer en recto-verso, mais les cartes ainsi obtenues sont difficiles à manipuler car trop fines. 
+Il est possible de les imprimer en recto-verso, mais les cartes ainsi obtenues sont difficiles à manipuler car trop fines. Nous recommendons d'imprimer en recto, et de coller chaque paire de feuille imprimer de part et d'autre d'une feuille blanche plus rigide, avant de procéder au découpage de cet assemblae de trois feuilles. 
+
+Les cartes peuvent être glissées dans des protèges-carte standard de manière à faciliter les opérations de mélange des cartes. Les cartes imprimées et découpées ont un format standard d'environ 63 × 88 mm, ce qui permet d'utiliser des protège-carte du commerce.
 
 ---
 
@@ -372,7 +374,3 @@ Cette variante est indépendante des niveaux de difficulté.
 
 Résultat : il y aura **deux accélérations** dans la partie.
 
-
-Nous recommendons d'imprimer en recto, et de coller chaque paire de feuille imprimer de part et d'autre d'une feuille blanche plus rigide, avant de procéder au découpage de cet assemblae de trois feuilles. 
-
-Les cartes peuvent être glissées dans des protèges cartes standard de manière à faciliter les opérations de mélange des cartes, qui sont nombreuses en raison du caractère "deckbuilding" du jeu. Les cartes imprimées devraient avoir un format standard d'environ 63 × 88 mm, ce qui permet d'utiliser des pochettes standard du commerce.
