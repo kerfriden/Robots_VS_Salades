@@ -7,10 +7,6 @@ Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
 ---
 
-<a href="./mise_en_place.pdf">
-  <img src="files/mise_en_place.png" width="600">
-</a>
-
 ## LA CHAÎNE DE PRODUCTION
 
 Bienvenue dans l’usine **GreenBot Industries** 🏭🥗.
@@ -73,6 +69,10 @@ Chaque carte possède **deux faces** :
 ---
 
 ## MISE EN PLACE
+
+<a href="./mise_en_place.pdf">
+  <img src="files/mise_en_place.png" width="800">
+</a>
 
 ### 1) Préparer le deck Salades
 
