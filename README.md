@@ -1,9 +1,8 @@
 # 🤖🥗 ROBOTS CONTRE SALADES  
 **Jeu de cartes imprimables et coopératif pour 2 joueurs de 6 ans et +**
 
-Auteurs : Tilo Kerfriden Claus et Pierre Kerfriden
-
-Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
+- Auteurs : Tilo Kerfriden Claus et Pierre Kerfriden
+- Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
 ---
 
