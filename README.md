@@ -342,3 +342,15 @@ Les niveaux modifient principalement la composition du deck Équipement
 Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 
 ---
+
+## LISTE DES CARTES SALADES
+
+<a href="./files/liste_saldes.png">
+  <img src="files/liste_saldes.png" width="700">
+</a>
+
+## LISTE DES CARTES EQUIPEMENT
+
+<a href="./files/liste_equipement.png">
+  <img src="files/liste_equipement.png" width="700">
+</a>
