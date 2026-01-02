@@ -25,7 +25,7 @@ Depuis peu, les salades s’arment, résistent à la découpe, et certaines tent
 À leur tête :
 👑 le Roi des Salades, instigateur de la rébellion verte.
 
-Vous incarnez deux robots de découpe envoyés en urgence pour reprendre le contrôle de la production.
+Vous incarnez deux robots envoyés en urgence au poste de découpe afin de reprendre le contrôle de la production.
 
 Votre mission : coopérer, améliorer vos équipements grâce aux mises à niveau que vous revevrez lors de vos exploits, et empêcher les salades rebelles de mettre le chaos dans le système de production.
 
@@ -88,16 +88,16 @@ Chaque carte possède **deux faces** :
 
 ### IMPRESSION DES CARTES
 
-Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles en cliquant sur l'image ci-dessous.
+Les cartes sont à imprimer sur du papier A4 (8 carte par page) et peuvent être téléchargées en cliquant sur l'image ci-dessous.
 <p align="center">
 <a href="./cartes_a_imprimer.pdf">
   <img src="files/snipet_cartes_a_imprimer.png" width="350">
 </a>
 </p>
 
-Il est possible d'imprimer les planches en recto-verso directement (bordure sur le côté court), mais les cartes ainsi obtenues sont difficiles à manipuler car elles sont trop fines. Nous recommendons d'imprimer en recto, et de coller chaque paire de feuille imprimer de part et d'autre d'une feuille blanche plus rigide, avant de procéder au découpage de l'assemblage ainsi obtenu. 
+Il est possible d'imprimer les planches en recto-verso directement (bordure sur le côté court), mais les cartes ainsi obtenues sont difficiles à manipuler car trop fines. Nous recommendons d'imprimer en recto, et de coller chaque paire de feuilles à imprimer de part et d'autre d'une feuille blanche plus rigide, avant de procéder au découpage de l'assemblage ainsi obtenu. 
 
-Les cartes peuvent être glissées dans des protèges-carte standard de manière à faciliter les opérations de mélange des cartes. Les cartes imprimées et découpées ont un format standard d'environ 63 × 88 mm, ce qui permet d'utiliser des protège-carte du commerce.
+Les cartes peuvent être glissées dans des protège-cartes standard de manière à faciliter les opérations de mélange des cartes. Les cartes imprimées et découpées ont un format standard d'environ 63 × 88 mm, ce qui permet d'utiliser des protège-cartes du commerce.
 
 ---
 
