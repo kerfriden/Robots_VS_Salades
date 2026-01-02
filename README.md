@@ -358,7 +358,7 @@ Résultat : il y aura **deux accélérations** dans la partie.
 
 ## impression des cartes
 
-Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles ici
+Les cartes à imprimer sur du papier A4 (8 carte par page) sont disponibles en cliquant sur l'image ci-dessous.
 <p align="center">
 <a href="./cartes_a_imprimer.pdf">
   <img src="files/snipet_cartes_à_imprimer.png" width="400">
