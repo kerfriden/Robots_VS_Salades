@@ -228,7 +228,7 @@ La carte CPU utilisée reste dans la **zone de jeu** pendant cet effet.
 
 ---
 
-### 🐰 Lapin / Super Lapin
+### 🐰 Super Lapin
 - Mange n’importe quelle salade sur le tapis.
 - La salade est retirée du jeu.
 - L’emplacement devient vide, matérialisé par une **carte blanche**.
