@@ -364,7 +364,7 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 
 ---
 
-## VARIANTE – DOUBLE ACCÉLÉRATION
+## VARIANTE – DOUBLE ACCÉLÉRATION (non testée)
 
 Cette variante est indépendante des niveaux de difficulté.
 
