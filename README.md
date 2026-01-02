@@ -221,17 +221,17 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 ## CARTES ÉQUIPEMENT – EFFETS
 
 ### 🔪 Couteau
-- Tente de découper une salade **adjacente** au robot.
+- Tenter de découper une salade **adjacente** au robot.
 - Si **valeur du couteau ≥ résistance de la salade** → la salade est **découpée** avec succés.
 
 **Coopération**  
-Si l’autre robot est aussi adjacent à cette salade, l'opération de découpe bénéficie d'un bonus de +1 pour cette action. **Bien coordonner les deux robots est fondamental** pour remporter la victoire, car les salades sont souvent trop résistantes par rapport au niveau des outils de découpe fournis par le jeu.
+Si le robot inactif est également adjacent à la salade ciblée, l'opération de découpe bénéficie d'un bonus de +1. **Bien coordonner les deux robots pour bénéficier de ce bonus est fondamental pour remporter la victoire**.
 
 ---
 
 ### 🛼 Rollers
 - Déplace le robot du nombre d’emplacements indiqué.
-- Le robot ne peut pas se déplacer vers un emplacement qui n'est **pas encore matérialisé** (par exemple au début de la partie quand le tapis fait moins de 6 emplacement de long).
+- Le robot ne peut pas se déplacer vers un emplacement qui n'est **pas encore matérialisé** (par exemple au début de la partie quand le tapis fait moins de 6 emplacements de longueur).
 
 ---
 
