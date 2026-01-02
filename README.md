@@ -352,7 +352,7 @@ Résultat : il y aura **deux accélérations** dans la partie.
 ## LISTE DES CARTES SALADE
 
 <p align="center">
-<a href="./files/liste_cartes.png">
+<a href="./files/liste_cartes.pdf">
   <img src="files/liste_salades.png" width="300">
 </a>
 </p>
@@ -360,7 +360,7 @@ Résultat : il y aura **deux accélérations** dans la partie.
 ## LISTE DES CARTES EQUIPEMENT PAR NIVEAU DE DIFFICULTÉ
 
 <p align="center">
-<a href="./files/liste_cartes.png">
+<a href="./files/liste_cartes.pdf">
   <img src="files/liste_equipement.png" width="700">
 </a>
 </p>
