@@ -353,7 +353,7 @@ Résultat : il y aura **deux accélérations** dans la partie.
 
 <p align="center">
 <a href="./files/liste_salades.png">
-  <img src="files/liste_salades.png" width="450">
+  <img src="files/liste_salades.png" width="350">
 </a>
 </p>
 
