@@ -70,7 +70,7 @@ Chaque carte possède **deux faces** :
 
 ## MISE EN PLACE
 
-<a href="./mise_en_place.pdf">
+<a href="./files/mise_en_place.pdf">
   <img src="files/mise_en_place.png" width="700">
 </a>
 
