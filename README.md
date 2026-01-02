@@ -290,7 +290,7 @@ Cette action peut être répétée autant de fois que souhaité.
 
 ## SORTIE DE TAPIS – INTERDICTIONS
 
-Les robots ne peuvent pas interagir avec les salades déjà empilées à la sortie de tapis.
+Les robots ne peuvent pas interagir avec les salades déjà empilées à l'emplacement de sortie du tapis de découpe.
 
 Il est interdit d’utiliser sur elles :
 - une Boule de Check,
@@ -298,15 +298,16 @@ Il est interdit d’utiliser sur elles :
 - un Tapis de Check,
 - ou tout autre effet.
 
+Il est aussi interdit de placer un robot de manière adjacente à le sortie de tapis.
+
 ---
 
 ## FIN DE PARTIE
 
-### Victoire
-Toutes les cartes Salade ont atteint la sortie de tapis  
-sans qu’aucune condition de défaite ne se soit produite.
+### Victoire si
+Toutes les cartes Salade ont atteint la sortie de tapis sans qu’aucune condition de défaite ne se soit produite.
 
-### Défaite
+### Défaite si
 - 3 salades non découpées ont atteint la sortie de tapis  
 - ou le Roi des Salades y arrive non découpé
 
@@ -352,3 +353,14 @@ Cette variante est indépendante des niveaux de difficulté.
 - Une autre Salade Pousse-Tapis est déjà présente dans le **Tier II**.
 
 Résultat : il y aura **deux accélérations** dans la partie.
+
+---
+
+## impression des cartes
+
+Les cartes sont disponibles ici
+<p align="center">
+<a href="./files/cartes_à_imprimer.pdf">
+  <img src="files/snipet_cartes_à_imprimer.png" width="700">
+</a>
+</p>
