@@ -323,6 +323,17 @@ sans qu’aucune condition de défaite ne se soit produite.
 
 ---
 
+## NIVEAUX DE DIFFICULTÉ
+
+Les niveaux modifient principalement la composition du deck Équipement  
+(et quelques règles mineures, selon le tableau fourni).
+
+### Niveau avancé – Disque dur
+Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
+
+
+---
+
 ## VARIANTE – DOUBLE ACCÉLÉRATION
 
 Cette variante est indépendante des niveaux de difficulté.
@@ -335,16 +346,6 @@ Résultat : il y aura **deux accélérations** dans la partie.
 
 ---
 
-## NIVEAUX DE DIFFICULTÉ
-
-Les niveaux modifient principalement la composition du deck Équipement  
-(et quelques règles mineures, selon le tableau fourni).
-
-### Niveau Difficile – Disque dur
-Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
-
----
-
 ## LISTE DES CARTES SALADES
 
 <p align="center">
@@ -353,7 +354,7 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 </a>
 </p>
 
-## LISTE DES CARTES EQUIPEMENT
+## LISTE DES CARTES EQUIPEMENT PAR NIVEAU DE DIFFICULTÉ
 
 <p align="center">
 <a href="./files/liste_equipement.png">
