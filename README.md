@@ -221,14 +221,14 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 ## CARTES ÉQUIPEMENT – EFFETS
 
 <p align="center">
-<a href="./files/description_equipement_1.pdf">
-  <img src="files/description_equipement_1" width="800">
+<a href="./files/description_equipement_1.png">
+  <img src="files/description_equipement_1.png" width="800">
 </a>
 </p>
 
 <p align="center">
-<a href="./files/description_equipement_2.pdf">
-  <img src="files/description_equipement_2" width="800">
+<a href="./files/description_equipement_2.png">
+  <img src="files/description_equipement_2.png" width="800">
 </a>
 </p>
 
