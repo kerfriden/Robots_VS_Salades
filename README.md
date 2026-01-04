@@ -322,7 +322,7 @@ Cette action peut être répétée autant de fois que souhaité.
 
 <p align="center">
 <a href="./files/salades_speciales.png">
-  <img src="files/salades_speciales.png" width="600">
+  <img src="files/salades_speciales.png" width="650">
 </a>
 </p>
 
