@@ -220,6 +220,18 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 
 ## CARTES ÉQUIPEMENT – EFFETS
 
+<p align="center">
+<a href="./files/description_equipement_1.pdf">
+  <img src="files/description_equipement_1" width="800">
+</a>
+</p>
+
+<p align="center">
+<a href="./files/description_equipement_2.pdf">
+  <img src="files/description_equipement_2" width="800">
+</a>
+</p>
+
 ### 🔪 Couteau
 - Tenter de découper une salade **adjacente** au robot.
 - Si **valeur du couteau ≥ résistance de la salade** → la salade est **découpée** avec succés.
