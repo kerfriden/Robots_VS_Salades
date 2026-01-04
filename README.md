@@ -320,6 +320,12 @@ Cette action peut être répétée autant de fois que souhaité.
 
 ## SALADES SPÉCIALES
 
+<p align="center">
+<a href="./files/salades_speciales.png">
+  <img src="files/salades_speciales.png" width="800">
+</a>
+</p>
+
 ### 👑 Roi des Salades
 - Si le Roi atteint la sortie de tapis non découpé : défaite immédiate.
 
