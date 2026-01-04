@@ -222,7 +222,7 @@ Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cart
 
 <p align="center">
 <a href="./files/description_equipement_1.png">
-  <img src="files/description_equipement_1.png" width="600">
+  <img src="files/description_equipement_1.png" width="550">
 </a>
 </p>
 
