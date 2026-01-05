@@ -191,7 +191,7 @@ Chaque tour se déroule dans l’ordre suivant.
 
 - Révélez **2 cartes Salade** depuis le deck.
 - Chaque nouvelle carte pousse les autres d’un emplacement vers la sortie de tapis.
-- Si une salade atteint le **7ᵉ emplacement**, elle est empilée à l'emplacement de sortie de tapis.
+- Si une salade atteint le **7ᵉ emplacement**, elle y reste. Les salades s'empilent à cet endroit, qui matérialise toutes les salades (découpées ou non), qui sont sorties du tapis de découpe.
 
 #### Salade *Pousse-Tapis*
 Lorsqu’une salade *Pousse-Tapis* apparaît :
