@@ -205,16 +205,30 @@ Lorsqu’une salade *Pousse-Tapis* apparaît :
 
 Les joueurs choisissent librement qui est le joueur actif.
 
-Au début de son tour, le joueur actif pioche jusqu’à avoir **3 cartes en main**.
-
-Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cartes manquantes. S’il n’y a plus assez de cartes, il pioche autant que possible.
+Au début de son tour, le joueur actif pioche jusqu’à avoir **3 cartes en main**. Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cartes manquantes. S’il n’y a plus assez de cartes, il pioche autant que possible.
 
 ---
 
 ### Jouer des cartes
 
-- Les cartes jouées sont posées dans la **zone de jeu** du joueur actif.
-- Elles vont dans **sa défausse** à la fin du tour.
+Les cartes jouées sont posées une à une dans la **zone de jeu** du joueur actif, en appliquant leur effet carte par carte.
+
+### Défausser les cartes jouées
+
+A la fin de son tour, le joueur actif place ses cartes jouées et celles restantes dans sa main, dans **sa défausse**.
+
+### MISE À NIVEAU DES ROBOTS
+
+À n’importe quel moment de son tour, le joueur actif peut :
+
+1. Retirer du jeu **une carte non jouée** de sa main.
+2. Prendre **une carte du stock d’équipements visibles**.
+3. Cette carte est considérée comme **jouée sans effet** (elle ira dans sa défausse à la fin de son tour).
+4. Elle sera utilisable **la prochaine fois** qu’elle sera piochée depuis le deck.
+
+Cette action peut être répétée autant de fois que souhaité.
+
+👉 Le deck personnel contient toujours **8 cartes**.
 
 ---
 
@@ -292,21 +306,6 @@ Le Stock limité à **3 cartes** : si une 4ᵉ carte équipement arrive dans le 
 ### Cas particuliers
 - Super Lapin : ne donne droit à aucun équipement.
 - Roi des Salades : lorsqu’il est découpé, ajoutez immédiatement un **Rollers de 7 lieues** au stock, sans piocher.
-
----
-
-## MISE À NIVEAU DES ROBOTS
-
-À n’importe quel moment de son tour, le joueur actif peut :
-
-1. Retirer du jeu **une carte non jouée** de sa main.
-2. Prendre **une carte du stock d’équipements visibles**.
-3. Cette carte est considérée comme **jouée sans effet** (elle ira dans sa défausse à la fin de son tour).
-4. Elle sera utilisable **la prochaine fois** qu’elle sera piochée depuis le deck.
-
-Cette action peut être répétée autant de fois que souhaité.
-
-👉 Le deck personnel contient toujours **8 cartes**.
 
 ---
 
