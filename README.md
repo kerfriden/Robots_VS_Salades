@@ -211,10 +211,6 @@ Au début de son tour, le joueur actif pioche jusqu’à avoir **3 cartes en mai
 
 Les cartes jouées sont posées une par une dans la **zone de jeu** du joueur actif. Pour chaque carte jouée, l'effet correspondant doit être appliqué.
 
-### Défausser les cartes jouées
-
-A la fin de son tour, le joueur actif place ses cartes jouées et celles restantes dans sa main, dans **sa défausse**.
-
 ---
 
 ## Mise à niveau des robots
