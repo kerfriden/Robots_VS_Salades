@@ -380,7 +380,7 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 
 <p align="center">
 <a href="./files/liste_cartes.pdf">
-  <img src="files/liste_salades.png" width="350">
+  <img src="files/liste_salades.png" width="400">
 </a>
 </p>
 
