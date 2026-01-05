@@ -207,8 +207,6 @@ Les joueurs choisissent librement qui est le joueur actif.
 
 Au début de son tour, le joueur actif pioche jusqu’à avoir **3 cartes en main**. Si son deck est vide, il mélange **sa défausse** puis pioche le nombre de cartes manquantes. S’il n’y a plus assez de cartes, il pioche autant que possible.
 
----
-
 ### Jouer des cartes
 
 Les cartes jouées sont posées une par une dans la **zone de jeu** du joueur actif. Pour chaque carte jouée, l'effet correspondant doit être appliqué.
