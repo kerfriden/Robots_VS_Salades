@@ -211,13 +211,15 @@ Au début de son tour, le joueur actif pioche jusqu’à avoir **3 cartes en mai
 
 ### Jouer des cartes
 
-Les cartes jouées sont posées une à une dans la **zone de jeu** du joueur actif, en appliquant leur effet carte par carte.
+Les cartes jouées sont posées une par une dans la **zone de jeu** du joueur actif. Pour chaque carte jouée, l'effet correspondant doit être appliqué.
 
 ### Défausser les cartes jouées
 
 A la fin de son tour, le joueur actif place ses cartes jouées et celles restantes dans sa main, dans **sa défausse**.
 
-### MISE À NIVEAU DES ROBOTS
+---
+
+## Mise à niveau des robots
 
 À n’importe quel moment de son tour, le joueur actif peut :
 
@@ -256,7 +258,7 @@ Si le robot inactif est également adjacent à la salade ciblée, l'opération d
 ---
 
 ### 🛼 Rollers
-- Déplace le robot du nombre d’emplacements indiqué.
+- Déplace le robot d'un nombre d’emplacements inférieur ou égal à la valeur indiqué.
 - Le robot ne peut pas se déplacer vers un emplacement qui n'est **pas encore matérialisé** (par exemple au début de la partie quand le tapis fait moins de 6 emplacements de longueur).
 
 ---
