@@ -44,8 +44,8 @@ Les joueurs gagnent la partie lorsque :
 
 La partie est immédiatement perdue si :
 
-- **3 salades non découpées** sont passées par la **sortie de tapis** ;
-- le **Roi des Salades** passe par la sortie de tapis **sans avoir été découpé**.
+- **3 salades non découpées** sont **sorties du tapis de découpe** ;
+- le **Roi des Salades** sort du tapis de découpe **sans avoir été découpé**.
 
 ---
 
