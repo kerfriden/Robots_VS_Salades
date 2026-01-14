@@ -387,15 +387,3 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 </a>
 </p>
 
----
-
-## VARIANTE – DOUBLE ACCÉLÉRATION (non testée)
-
-Cette variante est indépendante des niveaux de difficulté.
-
-- Ajoutez une carte **Salade Pousse-Tapis** dans le **Tier I** des Salades  
-  *(retirez une salade normale de réistance = 1 du Tier I)*.
-- Une autre Salade Pousse-Tapis est déjà présente dans le **Tier II**.
-
-Résultat : il y aura **deux accélérations** dans la partie.
-
