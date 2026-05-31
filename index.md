@@ -1,6 +1,18 @@
 # 🤖🥗 ROBOTS CONTRE SALADES  
 **Jeu de cartes coopératif imprimable pour 2 joueurs de 6 ans et +**
 
+
+Robots Contre Salades est un jeu de cartes coopératif imprimable pour deux joueurs.
+Les joueurs incarnent des robots chargés d'arrêter une révolte de salades dans une usine automatisée.
+Le jeu est jouable à partir de fichiers PDF imprimables disponibles gratuitement sur GitHub.
+
+Site du projet :
+https://kerfriden.github.io/Robots_VS_Salades/
+
+Dépôt GitHub :
+https://github.com/kerfriden/Robots_VS_Salades
+
+
 - Auteurs : Tilo Kerfriden Claus et Pierre Kerfriden
 - Licence : Creative Commons Attribution–NonCommercial (CC BY-NC)
 
@@ -387,3 +399,10 @@ Effet : **piocher 1 carte, puis dupliquer une carte de la main**.
 </a>
 </p>
 
+
+---
+
+## Liens
+
+- Site du jeu : https://kerfriden.github.io/Robots_VS_Salades/
+- Code source et fichiers : https://github.com/kerfriden/Robots_VS_Salades
